@@ -10,6 +10,7 @@ onready var themes := [
 	preload("res://assets/themes/caramel/theme.tres"),
 	preload("res://assets/themes/light/theme.tres"),
 	preload("res://assets/themes/purple/theme.tres"),
+	preload("res://assets/themes/default_godot/theme.tres")
 ]
 
 onready var buttons_container: BoxContainer = $ThemeButtons
