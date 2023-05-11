@@ -136,7 +136,7 @@ msgid "Paste"
 msgstr "Wklej"
 
 msgid "Paste in Place"
-msgstr "Wklej w Miejscu"
+msgstr "Wklej w miejscu"
 
 msgid "Delete"
 msgstr "Usuń"
@@ -226,7 +226,7 @@ msgid "Reset"
 msgstr "Zresetuj"
 
 msgid "Use Current Frame"
-msgstr "Użyj Aktualnej Klatki"
+msgstr "Użyj aktualnej klatki"
 
 msgid "Reset Mask"
 msgstr "Zresetuj Maskę"
@@ -292,7 +292,7 @@ msgid "Show Grid"
 msgstr "Pokaż siatkę"
 
 msgid "Show Pixel Grid"
-msgstr "Pokaż siatkę pixeli"
+msgstr "Pokaż siatkę pikseli"
 
 msgid "Show Rulers"
 msgstr "Pokaż linijki"
@@ -302,7 +302,7 @@ msgstr "Pokaż prowadnice"
 
 #. Found under the View menu.
 msgid "Show Mouse Guides"
-msgstr "Pokaż Prowadnice Myszki"
+msgstr "Pokaż prowadnice myszki"
 
 #. Found under the View menu.
 msgid "Snap To"
@@ -310,15 +310,15 @@ msgstr "Przyciągaj do"
 
 #. Found under the View menu.
 msgid "Snap to Rectangular Grid"
-msgstr "Przyciągaj do Siatki Prostokątnej"
+msgstr "Przyciągaj do siatki prostokątnej"
 
 #. Found under the View menu.
 msgid "Snap to Guides"
-msgstr "Przyciągaj do Prowadnic"
+msgstr "Przyciągaj do prowadnic"
 
 #. Found under the View menu.
 msgid "Snap to Perspective Guides"
-msgstr "Przyciągaj do Prowadnic Perspektywy"
+msgstr "Przyciągaj do prowadnic perspektywy"
 
 msgid "Show Animation Timeline"
 msgstr "Pokaż linię czasu animacji"
