@@ -56,7 +56,7 @@ func set_empty(new_value: bool) -> void:
 	empty = new_value
 	if empty:
 		mouse_default_cursor_shape = Control.CURSOR_ARROW
-		#color = Global.control.theme.get_stylebox("disabled", "Button").bg_color
+		color = Global.control.theme.get_stylebox("disabled", "Button").bg_color
 	else:
 		mouse_default_cursor_shape = Control.CURSOR_POINTING_HAND
 
